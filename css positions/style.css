@@ -93,3 +93,13 @@ margin: 10px 0;
   width: 29.33%;
   height: 140px;
 }
+/*CLEARING FLoats*/
+
+.content{
+
+  padding: 10px;
+  background: #ccc;
+  clear: both;
+  margin-top: 10px;
+}
+
